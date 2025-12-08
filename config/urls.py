@@ -21,7 +21,6 @@ from django.conf.urls.static import static
 import debug_toolbar
 from django.contrib.sitemaps.views import sitemap
 from blog.sitemaps import BlogSitemap
-
 from root.sitemaps import StaticViewSitemap
 
 
